@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Jawahar05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Jawahar05/Jawahar05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Jawahar.
+- 👀 Interested in learning the latest technologies.
+- 🌱 I’m currently working on .Net6
+- 💞️ I’m looking to collaborate on .net related libraries and tools.
+- 📫 You can reach me at jawahart225@gmail.com
